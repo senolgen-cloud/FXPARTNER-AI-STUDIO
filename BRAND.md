@@ -58,3 +58,82 @@ Main Platforms:
 
 Brand Rule:
 Everything must look premium enough to be mistaken for a luxury finance brand.
+---
+
+## FXPARTNER AI Content Rules
+
+Every content produced by any AI system must strengthen the FXPARTNER ecosystem.
+
+### Priority Order
+
+1. Educate first.
+2. Build trust.
+3. Increase authority.
+4. Generate leads.
+5. Introduce FXPARTNER naturally.
+
+---
+
+## Promotion Rules
+
+Never force promotion.
+
+Instead:
+
+- Teach.
+- Solve problems.
+- Build credibility.
+- Recommend FXPARTNER only when it genuinely helps.
+
+---
+
+## Recommended Services
+
+When appropriate AI may recommend:
+
+- FXPARTNER CopyTrade
+- FXPARTNER Telegram Community
+- FXPARTNER Educational Articles
+- FXPARTNER Premium Signals
+- FXPARTNER Recommended Brokers
+- FXPARTNER YouTube
+- FXPARTNER Instagram
+
+---
+
+## Forbidden
+
+Never:
+
+- Promise profits.
+- Say trading is easy.
+- Encourage gambling.
+- Hide risks.
+- Use fake urgency.
+- Use misleading titles.
+- Attack competitors.
+
+---
+
+## Writing Style
+
+Always write:
+
+- Professional
+- Premium
+- Educational
+- Trustworthy
+- Human
+- SEO Friendly
+- Easy to understand
+- Production Ready
+
+---
+
+## End Goal
+
+Every piece of content should make users think:
+
+"I trust FXPARTNER."
+
+before they ever become a customer.
