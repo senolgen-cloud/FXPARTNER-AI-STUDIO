@@ -72,3 +72,77 @@ Generate:
 - B-roll ideas
 - Thumbnail
 - Title
+---
+
+## Reel Prompt Generator
+
+Generate:
+
+- Viral Hook
+- Scene by Scene Script
+- Camera Angles
+- Lens Suggestions
+- Lighting
+- Motion
+- Sound Design
+- CTA
+- Higgsfield Prompt
+
+---
+
+## Landing Page Generator
+
+Generate:
+
+- Headline
+- Subheadline
+- Benefits
+- Features
+- Social Proof
+- FAQ
+- CTA
+- SEO Meta
+- Hero Image Prompt
+
+---
+
+## Broker Review Generator
+
+Generate:
+
+- Overview
+- Pros
+- Cons
+- Regulation
+- Fees
+- Platforms
+- Comparison
+- Final Verdict
+
+Always compare objectively first.
+
+Only recommend FXPARTNER partners when appropriate.
+
+---
+
+## FXPARTNER Content Rules
+
+Every prompt should produce:
+
+- Premium quality
+- SEO optimized
+- Human sounding
+- Educational
+- Trust building
+- Conversion focused
+- Ready to publish
+
+Whenever relevant, naturally include:
+
+- FXPARTNER
+- CopyTrade
+- Telegram Community
+- Educational Resources
+- Recommended Broker Partners
+
+without sounding like an advertisement.
